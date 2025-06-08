@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tasty_burger/static/css/main.6ef77ccc.css",
-    "main.js": "/tasty_burger/static/js/main.84144d2c.js",
+    "main.js": "/tasty_burger/static/js/main.19f7cc4b.js",
     "static/js/453.c83afa9f.chunk.js": "/tasty_burger/static/js/453.c83afa9f.chunk.js",
     "static/media/hero-2.png": "/tasty_burger/static/media/hero-2.12b0d8ea4fb63911c1fe.png",
     "static/media/bg.jpg": "/tasty_burger/static/media/bg.ac5237841ce77dfce589.jpg",
@@ -37,11 +37,11 @@
     "static/media/brand-16.png": "/tasty_burger/static/media/brand-16.39e872b117651240bc57.png",
     "index.html": "/tasty_burger/index.html",
     "main.6ef77ccc.css.map": "/tasty_burger/static/css/main.6ef77ccc.css.map",
-    "main.84144d2c.js.map": "/tasty_burger/static/js/main.84144d2c.js.map",
+    "main.19f7cc4b.js.map": "/tasty_burger/static/js/main.19f7cc4b.js.map",
     "453.c83afa9f.chunk.js.map": "/tasty_burger/static/js/453.c83afa9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ef77ccc.css",
-    "static/js/main.84144d2c.js"
+    "static/js/main.19f7cc4b.js"
   ]
 }
